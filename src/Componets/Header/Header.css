@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    background-color: #ffffff;
+}
+
+.menu-items {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    list-style: none;
+}
